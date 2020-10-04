@@ -1,7 +1,10 @@
 "# Pytorch-ObjectDetection" 
 #you should install these libraries
+<br/>
 #python 3.7
+<br/>
 #opencv-python
+<br/>
 #matplotlib
 #Pillow
 #cvlib
